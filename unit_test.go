@@ -1,5 +1,5 @@
-package main
+package unit_test
 
 func SayHello() string {
-	return "Say Hello"
+	return "Hello World"
 }
